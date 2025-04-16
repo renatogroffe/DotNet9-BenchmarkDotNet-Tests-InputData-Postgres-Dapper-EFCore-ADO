@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.35906.104
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BenchmarkingDapperEFCoreCRM", "BenchmarkingDapperEFCoreCRM.csproj", "{487A645A-5E4E-AFC5-F54B-0597A1CCDF94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{487A645A-5E4E-AFC5-F54B-0597A1CCDF94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{487A645A-5E4E-AFC5-F54B-0597A1CCDF94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{487A645A-5E4E-AFC5-F54B-0597A1CCDF94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{487A645A-5E4E-AFC5-F54B-0597A1CCDF94}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9019FBE-CE95-48AC-8965-9C83F88AC026}
+	EndGlobalSection
+EndGlobal
